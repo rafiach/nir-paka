@@ -1,0 +1,19 @@
+{
+  "feature_cols": [
+    "r",
+    "s",
+    "t",
+    "u",
+    "v",
+    "w",
+    "temp"
+  ],
+  "target_cols": [
+    "protein kasar",
+    "lemak kasar",
+    "abu",
+    "bahan kering",
+    "serat kasar"
+  ],
+  "use_snv": true
+}
